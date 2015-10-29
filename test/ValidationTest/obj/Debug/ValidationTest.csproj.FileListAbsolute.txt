@@ -1,0 +1,7 @@
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\test\ValidationTest\bin\Debug\ValidationTest.dll
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\test\ValidationTest\bin\Debug\ValidationTest.pdb
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\test\ValidationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\test\ValidationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\test\ValidationTest\obj\Debug\ValidationTest.csprojResolveAssemblyReference.cache
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\test\ValidationTest\obj\Debug\ValidationTest.dll
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\test\ValidationTest\obj\Debug\ValidationTest.pdb

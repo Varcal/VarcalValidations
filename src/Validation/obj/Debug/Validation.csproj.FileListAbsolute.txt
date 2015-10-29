@@ -1,0 +1,5 @@
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\src\Validation\bin\Debug\Validation.dll
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\src\Validation\bin\Debug\Validation.pdb
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\src\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\src\Validation\obj\Debug\Validation.dll
+c:\users\clebe\documents\visual studio 2015\Projects\VarcalValidations\src\Validation\obj\Debug\Validation.pdb

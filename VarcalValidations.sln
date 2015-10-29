@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation", "src\Validation\Validation.csproj", "{DB004487-8D0C-43C0-A4D0-1C33369ED67C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationTest", "test\ValidationTest\ValidationTest.csproj", "{C128BAC1-79F2-47B9-AFAA-8A682EEA1B86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB004487-8D0C-43C0-A4D0-1C33369ED67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB004487-8D0C-43C0-A4D0-1C33369ED67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB004487-8D0C-43C0-A4D0-1C33369ED67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB004487-8D0C-43C0-A4D0-1C33369ED67C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C128BAC1-79F2-47B9-AFAA-8A682EEA1B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C128BAC1-79F2-47B9-AFAA-8A682EEA1B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C128BAC1-79F2-47B9-AFAA-8A682EEA1B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C128BAC1-79F2-47B9-AFAA-8A682EEA1B86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
